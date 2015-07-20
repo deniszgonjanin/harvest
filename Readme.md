@@ -10,7 +10,7 @@
     ```
 
 4. Run `datacats init` inside the project directory
-5. Create a harvest source at `http://<mylocalckan>/harvest/``
+5. Create a harvest source at `http://<mylocalckan>/harvest/`
 6. Run the harvester gather and fetch queues
 
     ```
