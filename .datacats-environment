@@ -1,0 +1,9 @@
+[datacats]
+name = harvest
+ckan_version = 2.3
+extra_containers = redis
+
+[site_primary]
+port = 5574
+address = 127.0.0.1
+

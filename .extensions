@@ -1,0 +1,3 @@
+ckanext-harvest https://github.com/ckan/ckanext-harvest.git master
+ckan https://github.com/ckan/ckan release-v2.3-latest
+datapusher https://github.com/ckan/datapusher stable
